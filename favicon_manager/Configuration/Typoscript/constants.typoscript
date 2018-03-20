@@ -1,0 +1,6 @@
+# cat=Favicon-Manager; type=string; label= Icon Path : Paht to your icon directory
+faviconmanager.path =
+# cat=Favicon-Manager; type=string; label= Theme-Color : Theme-Color Meta Tag
+faviconmanager.theme-color = #ffffff
+# cat=Favicon-Manager; type=string; label= Tile-Color : msapplication tile-color
+faviconmanager.tile-color = #ffffff
